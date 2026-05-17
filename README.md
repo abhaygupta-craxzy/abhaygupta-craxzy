@@ -69,17 +69,6 @@ Apart from tech, I’m also passionate about fitness, productivity, self-growth,
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhaygupta-craxzy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
-
----
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=abhaygupta-craxzy&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
 ---
 
 <div align="center">
